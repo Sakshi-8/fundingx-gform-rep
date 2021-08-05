@@ -82,7 +82,7 @@ const FormSignup = ({submitForm}) => {
                 <div className="form-inputs">
                     {/* <label htmlFor="email" className="form-label">Email Id</label> */}
                     <p>Email Id <span className='asterisk-required'>*</span></p>
-                        <input 
+                        <input
                             // type="email" 
                             id='email'
                             name='email' 
